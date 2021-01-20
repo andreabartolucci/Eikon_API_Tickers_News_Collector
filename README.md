@@ -17,7 +17,11 @@ The key is read by main_download_storyID_auto.ipynb or it can be hardcoded.
 
 
 Some reference about Python Eikon API can be found here (you have to register for free therefore I cannot distribute them here but trust me, they are really clear, so just register and have a look at them):
-https://pypi.org/project/eikon/<\br>
-https://www.refinitiv.com/en/products/eikon-trading-software/eikon-app-api-innovation/eikon-data-api<\br>
-https://developers.refinitiv.com/en/api-catalog/eikon/eikon-data-api/documentation<\br>
-https://github.com/Refinitiv-API-Samples/Tutorial.EikonDAPI.Python.BankingBalance<\br>
+
+https://pypi.org/project/eikon/
+
+https://www.refinitiv.com/en/products/eikon-trading-software/eikon-app-api-innovation/eikon-data-api
+
+https://developers.refinitiv.com/en/api-catalog/eikon/eikon-data-api/documentation
+
+https://github.com/Refinitiv-API-Samples/Tutorial.EikonDAPI.Python.BankingBalance
